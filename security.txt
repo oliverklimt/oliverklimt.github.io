@@ -1,0 +1,3 @@
+Hello,
+this is only a static page hosted on Github, there shloud be no security concerns, but if you find any, please report them to my mail oliver@blep.cz.
+Have a nice day!
